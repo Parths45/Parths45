@@ -92,3 +92,21 @@ Web Development
   ├── TypeScript
   ├── React / Next.js
   └── SaaS Development
+
+## 🎯 My Goal
+
+To become a strong **software + AI + robotics developer** by continuously building real-world projects and understanding how things work under the hood.
+
+> Build → Break → Debug → Learn → Build Better 🚀
+
+---
+
+## 🤝 Let's Connect
+
+I'm always interested in **learning, collaborating, and building interesting projects**.
+
+- 🐙 **GitHub:** [@Parths45](https://github.com/Parths45)
+
+---
+
+⭐ If you find any of my projects interesting, feel free to explore them!
